@@ -2,7 +2,7 @@
  <br/>Junior Data Analyst</h1>
 
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👩‍💻 Data Analytics Projects:</h2>
 
 - <b><a href="https://github.com/farimaahchz/07-Co2.git">Sustainability Analysis: CO2 Emission Predictors, Progressive Nations, and Future Non-Fossil Fuel Energy Prices</b>
   - Data Collection, Machine learning, Reporting and Data Visualization</b>
@@ -15,12 +15,16 @@ and Data Visulization</b>
 - <b><a href="https://github.com/farimaahchz/04-Global-CO2-Emissions.git">Carbon Emission Trends Analysis and Visualization</b>
   - Data Visualization, Data Transformation and Data Manipulation </b>
 
+<b>Python</b>
+- <b><a href="https://github.com/farimaahchz/03-Files.git">Finding Password</b>
+- <b><a href="https://github.com/farimaahchz/02-Arguments.git">Gravity</b>
+- <b><a href="https://github.com/farimaahchz/01-strings.git">Soccer Match Report</b>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="farimaahchz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="farimaahchz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: www.youtube.com/playlist?list=PLsU3bgvRlRTPuG1439TVxSrrTMHwpEMSS
 [linkedin]: www.linkedin.com/in/farimah-chamanzadeh-766110115
