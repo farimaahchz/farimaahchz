@@ -17,3 +17,8 @@ and Data Visulization</b>
 - <b><a href="https://github.com/farimaahchz/03-Files.git">Finding Password</b>
 - <b><a href="https://github.com/farimaahchz/02-Arguments.git">Gravity</b>
 - <b><a href="https://github.com/farimaahchz/01-strings.git">Soccer Match Report</b>
+
+<h2>📄 Certificates:</h2>
+
+- <b><a href="https://drive.google.com/file/d/1aunMsj0W75YmocisFMQzqqFH0UJmHPBm/view?usp=sharing">Data Analytics with Python</b>
+- <b><a href="https://drive.google.com/file/d/1MMzKJt8ewobDeyygLjh6-yttoIoZgIMz/view?usp=drive_link">Pathways Career Course</b>
