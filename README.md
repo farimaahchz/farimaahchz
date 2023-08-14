@@ -1,8 +1,5 @@
 # <h1>Hi, I'm Farimah!
  
-# <br/>Junior Data Analyst</h1>
-
-
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
 - <b><a href="https://github.com/farimaahchz/07-Co2.git">Sustainability Analysis: CO2 Emission Predictors, Progressive Nations, and Future Non-Fossil Fuel Energy Prices</b>
