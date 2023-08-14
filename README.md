@@ -4,13 +4,17 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b><a href="https://github.com/farimaahchz/07-Co2.git">Co2 Emissions and Predections for a Better Future</b>
+- <b><a href="https://github.com/farimaahchz/07-Co2.git">Sustainability Analysis: CO2 Emission Predictors, Progressive Nations, and Future Non-Fossil Fuel Energy Prices</b>
   - Data Collection, Machine learning, Reporting and Data Visualization</b>
 - <b><a href="https://github.com/farimaahchz/06_Income_inequality_in_relation_to_GDP.git">Analysis of Income Inequality and GDP Correlation</b>
   - Research, Data Collection, Calculating Pearson Correlation Coefficient
 and Data Visulization</b>
 - <b><a href="https://github.com/farimaahchz/05-Shark-Attack.git">Understanding Shark Attacks: Patterns and Risks</b>
   - Data Cleaning, Data Transformation, Data Manipulation and Data Visualization</b>
+
+- <b><a href="https://github.com/farimaahchz/04-Global-CO2-Emissions.git">Carbon Emission Trends Analysis and Visualization</b>
+  - Data Visualization, Data Transformation and Data Manipulation </b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
