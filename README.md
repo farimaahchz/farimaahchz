@@ -1,5 +1,6 @@
-<h1>Hi, I'm Farimah!
- <br/>Junior Data Analyst</h1>
+# <h1>Hi, I'm Farimah!
+ 
+# <br/>Junior Data Analyst</h1>
 
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
